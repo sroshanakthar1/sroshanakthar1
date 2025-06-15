@@ -12,7 +12,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sroshanakthar1&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroshanakthar1&layout=compact&theme=radical" alt="Top Languages"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroshanakthar1&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <h2 align="center">🛠 Technologies & Tools</h2>
