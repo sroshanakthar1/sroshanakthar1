@@ -1,5 +1,3 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> </div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Roshan+Akthar;A+Passionate;Full+Stack+Developer;Techiee!!" alt="Typing SVG" />
 </h1>
