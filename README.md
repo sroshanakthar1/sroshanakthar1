@@ -4,8 +4,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sroshanakthar1&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sroshanakthar1?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/sroshanakthar1?label=Stars&style=social" alt="GitHub Stars"/>
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
